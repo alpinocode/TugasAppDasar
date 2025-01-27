@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">AppAkhirDicoding</string>
+    <string name="fruit_name">Nama Buah</string>
+    <string name="description">Deskripsi</string>
+    <string name="nama_saya">mantap</string>
+    <string name="email_saya">3232dsa@gmail.com</string>
+    <string name="page_about">About Me</string>
+
+    <string-array name="data_name">
+        <item>Apel</item>
+        <item>Pisang</item>
+        <item>Jeruk</item>
+        <item>Semangka</item>
+        <item>Stroberi</item>
+        <item>Anggur</item>
+        <item>Mangga</item>
+        <item>Alpukat</item>
+        <item>Nanas</item>
+        <item>Delima</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Apel adalah buah yang kaya akan serat, vitamin C, dan berbagai nutrisi penting lainnya. Serat pada apel membantu melancarkan pencernaan dan menjaga kadar gula darah tetap stabil. Vitamin C dalam apel berfungsi sebagai antioksidan yang memperkuat sistem kekebalan tubuh, meningkatkan produksi kolagen untuk kesehatan kulit, dan melindungi tubuh dari radikal bebas. Apel juga rendah kalori, menjadikannya pilihan tepat untuk camilan sehat yang mendukung diet.</item>
+        <item>Pisang merupakan buah yang mengandung potasium tinggi, mineral yang sangat penting bagi kesehatan jantung dan otot. Potasium dalam pisang membantu mengatur tekanan darah dan mencegah kram otot. Selain itu, pisang juga kaya akan vitamin B6 yang penting untuk metabolisme dan pembentukan sel darah merah. Pisang juga mengandung serat yang baik untuk pencernaan, serta antioksidan yang membantu melawan radikal bebas.</item>
+        <item>Jeruk adalah buah citrus yang sangat terkenal karena kandungan vitamin C-nya yang tinggi. Vitamin C berperan dalam meningkatkan sistem kekebalan tubuh, melawan infeksi, dan mencegah penuaan dini pada kulit dengan meningkatkan produksi kolagen. Jeruk juga kaya akan serat yang mendukung pencernaan sehat, serta flavonoid yang memiliki sifat anti-inflamasi dan antioksidan yang baik untuk kesehatan jantung dan mengurangi risiko penyakit kronis.</item>
+        <item>Semangka adalah buah dengan kandungan air yang sangat tinggi, mencapai 90%. Ini membuatnya menjadi pilihan sempurna untuk menjaga tubuh tetap terhidrasi, terutama di hari-hari panas. Selain itu, semangka kaya akan likopen, sebuah antioksidan kuat yang telah terbukti bermanfaat untuk kesehatan jantung dan mencegah kanker. Semangka juga mengandung vitamin C dan A, yang baik untuk menjaga kulit tetap sehat dan melindungi tubuh dari berbagai penyakit.</item>
+        <item>Stroberi merupakan buah kecil yang kaya akan vitamin C, serat, dan antioksidan. Kandungan antioksidan dalam stroberi, seperti anthocyanin, dapat membantu mengurangi peradangan dalam tubuh dan meningkatkan kesehatan jantung. Stroberi juga rendah kalori, sehingga ideal untuk diet. Selain itu, serat dalam stroberi membantu pencernaan dan menjaga kadar gula darah tetap stabil, menjadikannya pilihan camilan sehat yang penuh manfaat.</item>
+        <item>Anggur adalah buah yang kaya akan resveratrol, antioksidan kuat yang memiliki banyak manfaat bagi kesehatan, terutama dalam melindungi kesehatan jantung. Resveratrol juga memiliki sifat anti-inflamasi yang dapat membantu mengurangi risiko penyakit kronis. Selain itu, anggur mengandung vitamin C dan K yang penting untuk sistem kekebalan tubuh, pembekuan darah, dan kesehatan kulit. Anggur juga kaya akan air, sehingga membantu menjaga hidrasi tubuh.</item>
+        <item>Mangga merupakan buah tropis yang kaya akan vitamin A dan C, yang keduanya memiliki peran penting dalam menjaga kesehatan mata dan meningkatkan sistem kekebalan tubuh. Vitamin A juga penting untuk kesehatan kulit, sementara vitamin C berfungsi sebagai antioksidan yang melindungi tubuh dari kerusakan akibat radikal bebas. Selain itu, mangga mengandung serat yang membantu pencernaan dan dapat meningkatkan kadar kolesterol baik dalam tubuh.</item>
+        <item>Alpukat adalah buah yang kaya akan lemak sehat, terutama lemak tak jenuh tunggal, yang bermanfaat untuk kesehatan jantung. Lemak sehat ini membantu menurunkan kadar kolesterol jahat (LDL) dan meningkatkan kadar kolesterol baik (HDL). Alpukat juga mengandung serat yang mendukung pencernaan, serta vitamin E yang memiliki sifat antioksidan dan membantu menjaga kulit tetap halus dan sehat. Selain itu, alpukat mengandung kalium yang bermanfaat untuk mengatur tekanan darah.</item>
+        <item>Nanas merupakan buah tropis yang kaya akan enzim bromelain, yang dapat membantu pencernaan dengan memecah protein dan mempercepat proses pencernaan. Selain itu, nanas mengandung vitamin C yang berfungsi sebagai antioksidan dan membantu meningkatkan sistem kekebalan tubuh. Nanas juga memiliki sifat anti-inflamasi yang dapat membantu mengurangi pembengkakan dan rasa sakit pada tubuh, serta kaya akan mangan yang penting untuk kesehatan tulang dan metabolisme.</item>
+        <item>Delima adalah buah yang kaya akan antioksidan, terutama punicalagins, yang membantu melindungi tubuh dari kerusakan akibat radikal bebas. Delima juga mengandung vitamin C yang penting untuk menjaga sistem kekebalan tubuh dan mempercepat pemulihan tubuh setelah sakit. Selain itu, delima dapat membantu menurunkan tekanan darah tinggi, meningkatkan kesehatan jantung, dan memiliki sifat anti-inflamasi yang bermanfaat untuk mengurangi peradangan dalam tubuh.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/apel</item>
+        <item>@drawable/pisang</item>
+        <item>@drawable/jeruk</item>
+        <item>@drawable/semangka</item>
+        <item>@drawable/stroberi</item>
+        <item>@drawable/anggur</item>
+        <item>@drawable/mangga</item>
+        <item>@drawable/alpukat</item>
+        <item>@drawable/nanas</item>
+        <item>@drawable/delima</item>
+    </integer-array>
+</resources>
